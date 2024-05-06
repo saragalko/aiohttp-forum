@@ -1,0 +1,6 @@
+common:
+  port: 8080
+  host: localhost
+postgres:
+  database_url: postgres://postgres:1111@localhost/forum
+  require_ssl: false
